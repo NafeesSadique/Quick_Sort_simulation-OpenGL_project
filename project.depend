@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1581316669 source:d:\google drive\united international university\12th semester\csi 422 (a) graphics design laboratory\project\main.cpp
+	<stdlib.h>
+	<Windows.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/GLAUX.h>
+	<string.h>
+
